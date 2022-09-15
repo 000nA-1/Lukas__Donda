@@ -1,0 +1,3 @@
+Arar = arare
+vu = voi
+Sior = signore
